@@ -16,13 +16,7 @@ I’m an Artificial Intelligence student and builder, currently exploring:
 - 💻 [GitHub – ialwayslikedgrime](https://github.com/ialwayslikedgrime
 )  
 
----
-
-## ✨ Why this pseudonym?
-
 I publish and experiment under the names **ialwayslikedgrime** and **grimey_s**.  
-It is because ... I've always liked grime. it's real and raw.
-If you found me via search: welcome — you’re in the right place.
 
 ---
 
