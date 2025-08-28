@@ -12,8 +12,8 @@ I’m an Artificial Intelligence student and builder, currently exploring:
 ## 🌐 Where to find me
 
 - 📝 [Medium – my writing as *ialwayslikedgrrime*](https://medium.com/@ialwayslikedgrime)  
-- 🐦 [X / Twitter – @ialwayslikedgrrime](https://x.com/grimey_s)  
-- 💻 [GitHub – grimey_s](https://github.com/ialwayslikedgrime
+- 🐦 [X / Twitter – @grimey_s](https://x.com/grimey_s)  
+- 💻 [GitHub – ialwayslikedgrime](https://github.com/ialwayslikedgrime
 )  
 
 ---
