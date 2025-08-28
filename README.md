@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ialwayslikedgrrime (aka grimey_s)
+# 👋 Hi, I’m ialwayslikedgrime (aka grimey_s)
 
 Welcome to my space on GitHub.  
 I’m an Artificial Intelligence student and builder, currently exploring:
@@ -11,7 +11,7 @@ I’m an Artificial Intelligence student and builder, currently exploring:
 
 ## 🌐 Where to find me
 
-- 📝 [Medium – my writing as *ialwayslikedgrrime*](https://medium.com/@ialwayslikedgrime)  
+- 📝 [Medium – my writing as *ialwayslikedgrime*](https://medium.com/@ialwayslikedgrime)  
 - 🐦 [X / Twitter – @grimey_s](https://x.com/grimey_s)  
 - 💻 [GitHub – ialwayslikedgrime](https://github.com/ialwayslikedgrime
 )  
@@ -20,8 +20,8 @@ I’m an Artificial Intelligence student and builder, currently exploring:
 
 ## ✨ Why this pseudonym?
 
-I publish and experiment under the names **ialwayslikedgrrime** and **grimey_s**.  
-It’s my way of keeping my creative side visible while sharing technical projects in public.  
+I publish and experiment under the names **ialwayslikedgrime** and **grimey_s**.  
+It is because ... I've always liked grime. it's real and raw.
 If you found me via search: welcome — you’re in the right place.
 
 ---
@@ -35,4 +35,4 @@ If you found me via search: welcome — you’re in the right place.
 ---
 
 ⭐ *I’m learning, building, and shipping projects in AI.  
-Follow along as ialwayslikedgrrime / grimey_s — and feel free to connect!*
+Follow along as ialwayslikedgrime / grimey_s — and feel free to connect!*
