@@ -1,32 +1,26 @@
-# 👋 Hi, I’m ialwayslikedgrime (aka grimey_s)
+# Hi, I'm ialwayslikedgrime / grimey_s
 
-Welcome to my space on GitHub.  
-I’m an Artificial Intelligence student and builder, currently exploring:
+Welcome to my space on GitHub.
 
-- 🧩 **Natural Language Processing (NLP)** — from classic sentiment analysis to Aspect-Based Sentiment Analysis (ABSA)  
-- 🏡 **Machine Learning for Real Estate & Market Data** — e.g., my Airbnb Milan project on occupancy and revenue drivers  
-- 🎙️ **AI Applications for Students** — working on a Whisper-based transcription app  
 
----
+I'm a passionate AI student (university of Pavia) from Northern Italy, currently enrolled at the Mathematik Fakultät at Humboldt Universität zu Berlin for the full 2025/2026 academic year. 
 
-## 🌐 Where to find me
+My journey into AI started with two pivotal moments: falling in love with coding during a Python course in 2019 (part of my BSc in Business Management), and discovering my passion for AI in early 2020 while reading "The Deep Learning Revolution by Terrence Sejnowski." After completing my MSc in Accounting and Finance from a top-ranked program (1st in Europe, 19th worldwide by QS), I chose to pursue this passion full-time. I chose to pursue a formal education because I was driven by the deep desire of deeply understanding this technology. 
 
-- 📝 [Medium – my writing as *ialwayslikedgrime*](https://medium.com/@ialwayslikedgrime)  
-- 🐦 [X / Twitter – @grimey_s](https://x.com/grimey_s)  
-- 💻 [GitHub – ialwayslikedgrime](https://github.com/ialwayslikedgrime
-)  
 
-I publish and experiment under the names **ialwayslikedgrime** and **grimey_s**.  
+## Current Projects
 
----
+- **Airbnb Price Prediction** – Machine learning model using real-world data to predict pricing patterns
+- **NLP** – Currently implementing Aspect-Based Sentiment Analysis (ABSA) and Classic NLP
+- **Custom Sentiment Analysis System** – Full implementation from scatch including custom architecture design, activation functions, and regularization techniques
+- **Evolutionary Algorithms** – My implementation of Particle Swarm Optimization
+- **Transcription App** – Local application supporting audio file uploads, live recording, and YouTube video transcription
+- **NLP Learning Repository** – Documentation of my deep-dive studies in Natural Language Processing
 
-## 📂 Featured Projects
+## Where to Find Me
 
-- [Airbnb Milan – Machine Learning Analysis](#)  
-- [ABSA with SemEval Reviews](#)  
-- [Whisper Transcription App](#)  
+I recently started to share more structured thoughts on Medium and explore ideas more freely on X:
 
----
-
-⭐ *I’m learning, building, and shipping projects in AI.  
-Follow along as ialwayslikedgrime / grimey_s — and feel free to connect!*
+- [Medium – @ialwayslikedgrime](https://medium.com/@ialwayslikedgrime)
+- [X / Twitter – @grimey_s](https://x.com/grimey_s)
+- [GitHub – ialwayslikedgrime](https://github.com/ialwayslikedgrime)
