@@ -15,7 +15,7 @@ My journey into AI started with two pivotal moments: falling in love with coding
   - Explored **hyperparameter optimization** (random search over learning rates, dropout, architecture size) and achieved robust performance across tasks.  
   - Repo includes clear documentation of design choices, architecture visualization, and notebook implementation.
 
-- **Airbnb Price Prediction** – Machine learning pipeline using real-world data with comprehensive EDA, feature engineering, and model optimization
+- **[Airbnb Price Prediction](https://github.com/ialwayslikedgrime/airbnb-milan-price-prediction)** – Machine learning pipeline using real-world data with comprehensive EDA, feature engineering, and model optimization
 
 - **[Particle Swarm Optimization](https://github.com/ialwayslikedgrime/Particle_Swarm_Optimization)**
 Particle Swarm Optimization (PSO) – From-scratch implementation of a swarm intelligence algorithm, part of the broader family of evolutionary and genetic-inspired optimization techniques. Vectorized with NumPy and engineered with OOP principles. 
