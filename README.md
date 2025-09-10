@@ -1,4 +1,4 @@
-# Hi, I'm Stella Andorno
+# 👋 Hi, I'm Stella
 
 Welcome to my space on GitHub.
 
@@ -27,8 +27,8 @@ Particle Swarm Optimization (PSO) – From-scratch implementation of a swarm int
 
 ## Where to Find Me
 
-I share structured thoughts on Medium and explore ideas more freely on X:
+Very recentrly, I started sharing structured thoughts on Medium and explore ideas more freely on X:
 
-- [Medium – @ialwayslikedgrime](https://medium.com/@ialwayslikedgrime)
 - [X / Twitter – @grimey_s](https://x.com/grimey_s)
+- [Medium – @ialwayslikedgrime](https://medium.com/@ialwayslikedgrime)
 - [GitHub – ialwayslikedgrime](https://github.com/ialwayslikedgrime)
