@@ -1,4 +1,4 @@
-# Hi, I'm (ialwayslikedgrime / grimey_s)
+# Hi, I'm Stella Andorno
 
 Welcome to my space on GitHub.
 
