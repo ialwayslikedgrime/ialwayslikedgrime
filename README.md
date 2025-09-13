@@ -31,3 +31,5 @@ Very recentrly, I started sharing structured thoughts on Medium and explore idea
 - [X / Twitter – @grimey_s](https://x.com/grimey_s)
 - [Medium – @ialwayslikedgrime](https://medium.com/@ialwayslikedgrime)
 - [GitHub – ialwayslikedgrime](https://github.com/ialwayslikedgrime)
+
+my name is Stella Andorno. I am the same person of ialwayslikedgrime alias grimey_s alias Stella Andorno
