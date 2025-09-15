@@ -15,16 +15,7 @@ My journey into AI started with two pivotal moments: falling in love with coding
   - Explored **hyperparameter optimization** (random search over learning rates, dropout, architecture size) and achieved robust performance across tasks.  
   - Repo includes clear documentation of design choices, architecture visualization, and notebook implementation.
 
-- **[Airbnb Price Prediction](https://github.com/ialwayslikedgrime/airbnb-milan-price-prediction)** – End-to-end Machine learning pipeline using real-world Airbnb data with comprehensive EDA, feature engineering, and model optimization
-  - **Language:** Python  
-  - **Libraries:** pandas • NumPy • scikit-learn • XGBoost • GeoPandas • shapely • matplotlib • SHAP
-  - **Data:** 23k+ listings across 88 neighborhoods (Inside Airbnb); cleaned and joined messy CSVs.  
-  - **Features:** rich  **feature engineering** on classic tabular features and geospatial engineering with GeoPandas (neighborhood encoding, spatial joins)
-  - **Modeling:** scikit-learn pipelines; model comparison → **XGBoost** selected.  
-  - **Validation:** rigorous **nested cross-validation**; test performance **R² = 0.587**.  
-  - **Interpretability:** **SHAP** to surface business drivers (location, property type, amenities).  
-  - **Software Engineering principles applied to Data Science** through modular code and clear folder organization (inspired by [cookiecutter data science](https://github.com/drivendataorg/cookiecutter-data-science) )
-  - **Outcome:** actionable insights for pricing/ROI analysis and investor decision-making.
+- **[Airbnb Price Prediction](https://github.com/ialwayslikedgrime/airbnb-milan-price-prediction)** – End-to-end machine learning pipeline using real-world Airbnb data (23K+ listings across 88 neighborhoods) with comprehensive data cleaning, feature engineering on classic tabular features and geospatial engineering with GeoPandas (neighborhood encoding, spatial joins), EDA, and model selection, optimization and validation. Interpretability through **SHAP** to surface business drivers (location, property type, amenities). Test performance XGBoost: **R² = 0.587**. Used **software engineering principles applied to data science** through modular code and clear folder organization (inspired by [cookiecutter data science](https://github.com/drivendataorg/cookiecutter-data-science)). **Libraries:** pandas • NumPy • scikit-learn • XGBoost • GeoPandas • Shapely • matplotlib • SHAP
 
 
 - **[Particle Swarm Optimization](https://github.com/ialwayslikedgrime/Particle_Swarm_Optimization)**
