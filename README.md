@@ -16,16 +16,16 @@ My journey into AI started with two pivotal moments: falling in love with coding
   - Repo includes clear documentation of design choices, architecture visualization, and notebook implementation.
 
 - **[Airbnb Price Prediction](https://github.com/ialwayslikedgrime/airbnb-milan-price-prediction)** – End-to-end Machine learning pipeline using real-world Airbnb data with comprehensive EDA, feature engineering, and model optimization
-    - **Language:** Python  
-    - **Libraries:** pandas • NumPy • scikit-learn • XGBoost • GeoPandas • shapely • matplotlib • SHAP
-    
-    - **Data:** 23k+ listings across 88 neighborhoods (Inside Airbnb); cleaned and joined messy CSVs.  
-    - **Features:** rich  **feature engineering** on classic tabular features and geospatial engineering with GeoPandas (neighborhood encoding, spatial joins)
-    - **Modeling:** scikit-learn pipelines; model comparison → **XGBoost** selected.  
-    - **Validation:** rigorous **nested cross-validation**; test performance **R² = 0.587**.  
-    - **Interpretability:** **SHAP** to surface business drivers (location, property type, amenities).  
-    - **Software Engineering principles applied to Data Science** through modular code and clear folder organization (inspired by [cookiecutter data science](https://github.com/drivendataorg/cookiecutter-data-science) )
-    - **Outcome:** actionable insights for pricing/ROI analysis and investor decision-making.
+  - **Language:** Python  
+  - **Libraries:** pandas • NumPy • scikit-learn • XGBoost • GeoPandas • shapely • matplotlib • SHAP
+  
+  - **Data:** 23k+ listings across 88 neighborhoods (Inside Airbnb); cleaned and joined messy CSVs.  
+  - **Features:** rich  **feature engineering** on classic tabular features and geospatial engineering with GeoPandas (neighborhood encoding, spatial joins)
+  - **Modeling:** scikit-learn pipelines; model comparison → **XGBoost** selected.  
+  - **Validation:** rigorous **nested cross-validation**; test performance **R² = 0.587**.  
+  - **Interpretability:** **SHAP** to surface business drivers (location, property type, amenities).  
+  - **Software Engineering principles applied to Data Science** through modular code and clear folder organization (inspired by [cookiecutter data science](https://github.com/drivendataorg/cookiecutter-data-science) )
+  - **Outcome:** actionable insights for pricing/ROI analysis and investor decision-making.
 
 
 - **[Particle Swarm Optimization](https://github.com/ialwayslikedgrime/Particle_Swarm_Optimization)**
