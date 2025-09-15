@@ -18,16 +18,16 @@ My journey into AI started with two pivotal moments: falling in love with coding
 - **[Airbnb Price Prediction](https://github.com/ialwayslikedgrime/airbnb-milan-price-prediction)** – Machine learning pipeline using real-world data with comprehensive EDA, feature engineering, and model optimization
 
 **End-to-end ML pipeline** on real-world Airbnb data for Milan.  
-- **Data:** 23k+ listings across 88 neighborhoods (Inside Airbnb); cleaned and joined messy CSVs.  
-- **Features:** rich  **feature engineering** on classic tabular features and geospatial engineering with GeoPandas (neighborhood encoding, spatial joins)
-- **Modeling:** scikit-learn pipelines; model comparison → **XGBoost** selected.  
-- **Validation:** rigorous **nested cross-validation**; test performance **R² = 0.587**.  
-- **Interpretability:** **SHAP** to surface business drivers (location, property type, amenities).  
-- **Software Engineering principles applied to Data Science** through modular code and clear folder organization (inspired by cookiecutter data science)
-- **Outcome:** actionable insights for pricing/ROI analysis and investor decision-making.
+  - **Data:** 23k+ listings across 88 neighborhoods (Inside Airbnb); cleaned and joined messy CSVs.  
+  - **Features:** rich  **feature engineering** on classic tabular features and geospatial engineering with GeoPandas (neighborhood encoding, spatial joins)
+  - **Modeling:** scikit-learn pipelines; model comparison → **XGBoost** selected.  
+  - **Validation:** rigorous **nested cross-validation**; test performance **R² = 0.587**.  
+  - **Interpretability:** **SHAP** to surface business drivers (location, property type, amenities).  
+  - **Software Engineering principles applied to Data Science** through modular code and clear folder organization (inspired by ![cookiecutter data science](https://github.com/drivendataorg/cookiecutter-data-science) )
+  - **Outcome:** actionable insights for pricing/ROI analysis and investor decision-making.
 
-**Language:** Python  
-**Libraries:** pandas • NumPy • scikit-learn • XGBoost • GeoPandas • shapely • matplotlib • SHAP
+  **Language:** Python  
+  **Libraries:** pandas • NumPy • scikit-learn • XGBoost • GeoPandas • shapely • matplotlib • SHAP
 
 
 - **[Particle Swarm Optimization](https://github.com/ialwayslikedgrime/Particle_Swarm_Optimization)**
