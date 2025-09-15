@@ -26,4 +26,4 @@ Particle Swarm Optimization (PSO) – From-scratch implementation of a swarm int
 
 
 In my free time, I enjoy web development . I built a transcription app powered by whisper that accepts youtube or audio files as input and gives back the text. I am actively learning about deployment.
-![Demo](media/demo_transcription_app.mp4)
+![Demo](media/demo.gif)
