@@ -15,11 +15,10 @@ My journey into AI started with two pivotal moments: falling in love with coding
   - Explored **hyperparameter optimization** (random search over learning rates, dropout, architecture size) and achieved robust performance across tasks.  
   - Repo includes clear documentation of design choices, architecture visualization, and notebook implementation.
 
-- **[Airbnb Price Prediction](https://github.com/ialwayslikedgrime/airbnb-milan-price-prediction)** – Machine learning pipeline using real-world data with comprehensive EDA, feature engineering, and model optimization
+- **[Airbnb Price Prediction](https://github.com/ialwayslikedgrime/airbnb-milan-price-prediction)** – End-to-end Machine learning pipeline using real-world Airbnb data with comprehensive EDA, feature engineering, and model optimization
     - **Language:** Python  
     - **Libraries:** pandas • NumPy • scikit-learn • XGBoost • GeoPandas • shapely • matplotlib • SHAP
     
-    **End-to-end ML pipeline** on real-world Airbnb data for Milan.  
     - **Data:** 23k+ listings across 88 neighborhoods (Inside Airbnb); cleaned and joined messy CSVs.  
     - **Features:** rich  **feature engineering** on classic tabular features and geospatial engineering with GeoPandas (neighborhood encoding, spatial joins)
     - **Modeling:** scikit-learn pipelines; model comparison → **XGBoost** selected.  
