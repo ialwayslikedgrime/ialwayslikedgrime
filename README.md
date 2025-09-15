@@ -2,9 +2,9 @@
 
 Welcome to my space on GitHub.
 
-I'm a passionate AI student from Northern Italy, currently enrolled at the Mathematik Fakultät at Humboldt Universität zu Berlin for the full 2025/2026 academic year. I am originally from the Artificial Intelligence course at University of Pavia.
+I'm a passionate AI student from Northern Italy, currently enrolled at the Mathematik Fakultät at Humboldt Universität zu Berlin for the full 2025/2026 academic year (fully taught in German). I am a student enrolled in the Artificial Intelligence course at University of Pavia.
 
-My journey into AI started with two pivotal moments: falling in love with coding during a Python course in 2019 (part of my BSc in Business Management), and discovering my passion for AI in early 2020 while reading "The Deep Learning Revolution" by Terrence Sejnowski. After completing my MSc in Accounting and Finance from a top-ranked program (1st in Europe, 19th worldwide by QS), I chose to pursue this passion full-time through formal education.
+I’m seeking **internship / Werkstudent opportunities in Berlin** to contribute to real-world products while I study.
 
 ## Current Projects
 
@@ -28,3 +28,18 @@ Particle Swarm Optimization (PSO) – From-scratch implementation of a swarm int
   - Handles **YouTube URLs, audio file uploads, and live microphone recording** with real-time progress tracking.
   - **Technical stack**: Next.js, TypeScript, React, Tailwind CSS, Node.js, Python, Hugging Face Transformers, PyTorch for local Whisper inference, yt-dlp for YouTube processing, FFmpeg for audio handling.  
   - Currently learning **full-stack deployment**: scaling from local execution to cloud architecture with user authentication (Clerk), database integration (PostgreSQL), and payment processing through Stripe API.
+
+
+
+
+### 🔒 Current Projects I am working on (private)
+
+These repos are private while I finalize them.
+
+- **NLP — Aspect-Based Sentiment Analysis (ABSA)**
+  - **Classical pipeline:** tokenization, stemming, TF-IDF, bag-of-words.
+  - **Modern pipeline:** fine-tuning **BERT**; exploring (a) **sequence labeling** for term extraction (BIO/BIOES) with sentiment and (b) **question-answering–style** formulations; experimenting with custom multi-task heads.
+  - **Data I am using:** **SemEval 2014 Restaurants** → transfer learning to **Amazon Reviews** (with the goal of generalizing to other review domains and building useful review-analytics components).
+
+- **AI Agents**
+  - Prototyping agents both with **LangChain** and from-scratch Python implementations.
