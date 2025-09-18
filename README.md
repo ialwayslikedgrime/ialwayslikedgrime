@@ -31,7 +31,6 @@ Particle Swarm Optimization (PSO) – From-scratch implementation of a swarm int
 
 
 
-
 ### 🔒 Current Projects I am working on (private)
 
 These repos are private while I finalize them.
@@ -43,3 +42,6 @@ These repos are private while I finalize them.
 
 - **AI Agents**
   - Prototyping agents both with **LangChain** and from-scratch Python implementations.
+
+
+online ialwayslikedgrime , my real name is Stella Andorno 
