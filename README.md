@@ -2,9 +2,6 @@
 
 Welcome to my space on GitHub.
 
-Hi, I'm Stella
-Welcome to my space on GitHub.
-
 I'm a passionate AI student from Northern Italy, currently enrolled at the Mathematik Fakultät at Humboldt Universität zu Berlin for the full 2025/2026 academic year (fully taught in German). I am an erasmus student from the Artificial Intelligence course at University of Milan.
 
 ## Current Projects
